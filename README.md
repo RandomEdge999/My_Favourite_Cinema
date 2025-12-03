@@ -31,7 +31,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the app.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 *   **Framework**: Next.js 16 (App Router)
 *   **Styling**: Tailwind CSS + Framer Motion
