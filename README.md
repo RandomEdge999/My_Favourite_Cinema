@@ -2,7 +2,7 @@
 
 A modern, fluid movie tracking application built with Next.js, Tailwind CSS, and Supabase.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Environment Setup
 
@@ -38,7 +38,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 *   **Backend**: Supabase (Auth & Database)
 *   **Data**: TMDB API
 
-## 📦 Deployment
+## Deployment
 
 This project is ready for Vercel.
 
